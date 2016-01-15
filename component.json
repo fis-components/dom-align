@@ -1,0 +1,10 @@
+{
+    "name": "dom-align",
+    "description": "Align DOM Node Flexibly ",
+    "repos": "https://github.com/git@github.com:yiminghe/dom-align.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "1.0.4",
+    "dependencies": {}
+}
